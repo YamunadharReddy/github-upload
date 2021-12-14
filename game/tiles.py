@@ -1,13 +1,12 @@
-
-"""Tiles, number swapping game.
+/*Tiles, number swapping game.
 
 Exercises
 
 1. Track a score by the number of tile moves.
 2. Permit diagonal squares as neighbors.
 3. Respond to arrow keys instead of mouse clicks.
-4. Make the grid bigger.
-"""
+4. Make the grid bigger.*/
+
 
 from random import *
 from turtle import *
