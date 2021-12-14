@@ -1,3 +1,4 @@
+
 """Tiles, number swapping game.
 
 Exercises
@@ -54,6 +55,7 @@ def square(mark, number):
     color('black', 'white')
     begin_fill()
     for count in range(4):
+        count
         forward(99)
         left(90)
     end_fill()
