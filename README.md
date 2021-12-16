@@ -1,0 +1,2 @@
+# github-upload
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4452a0446b5461a9f8c18e3f202f9d8)](https://app.codacy.com/gh/YamunadharReddy/github-upload?utm_source=github.com&utm_medium=referral&utm_content=YamunadharReddy/github-upload&utm_campaign=Badge_Grade_Settings)
